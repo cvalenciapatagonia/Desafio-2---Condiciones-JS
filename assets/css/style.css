@@ -1,0 +1,38 @@
+.img1 {
+  height: 450px;
+  width: 450px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 4em;
+}
+
+.sticker {
+  height: 350px;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.sticker-request {
+  display: flex;
+  flex-direction: column;
+  padding-right: 3em;
+  align-items: center;
+}
+
+.sticker-container {
+  display: flex;
+}
+
+.verify {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.login {
+  margin-top: 2em;
+}
